@@ -1,0 +1,66 @@
+{
+    "date_and_time": {
+        "date": "2018/07/23",
+        "time": "10:39:25",
+        "timestamp": "1532342365"
+    },
+    "measurements": {
+        "co2_ppm": "509",
+        "humidity_RH": "69",
+        "pm25_AQICN": "10",
+        "pm25_AQIUS": "29",
+        "pm25_ugm3": "7.0",
+        "temperature_C": "29.1",
+        "temperature_F": "84.3",
+        "voc_ppb": "-1"
+    },
+    "serial_number": "6SWXASH",
+    "settings": {
+        "followed_station": "7148",
+        "is_aqi_usa": true,
+        "is_concentration_showed": false,
+        "is_indoor": false,
+        "is_lcd_on": true,
+        "is_network_time": true,
+        "is_temperature_celsius": true,
+        "language": "en-GB",
+        "lcd_brightness": 60,
+        "node_name": "wat ket",
+        "power_saving": {
+            "2slots": [
+                {
+                    "hour_off": 9,
+                    "hour_on": 7
+                },
+                {
+                    "hour_off": 22,
+                    "hour_on": 18
+                }
+            ],
+            "mode": "no",
+            "yes": [
+                {
+                    "hour": 6,
+                    "minute": 30
+                },
+                {
+                    "hour": 6,
+                    "minute": 45
+                }
+            ]
+        },
+        "speed_unit": "mph",
+        "timezone": "Asia/Bangkok"
+    },
+    "status": {
+        "app_version": "1.1532",
+        "battery": 89,
+        "datetime": 1532342365,
+        "model": "10",
+        "sensor_pm25_serial": "00000110030927031035",
+        "sync_time": 60000,
+        "system_version": "KBG57F70",
+        "used_memory": 0,
+        "wifi_strength": 5
+    }
+}
